@@ -7,6 +7,7 @@ import Header from './components/Header';
 import ChooseUs from './components/ChooseUs';
 import Supplay from './components/Supplay';
 import Specifications from './components/Specifications';
+import Contact from './components/Contact';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <ChooseUs />
       <Supplay />
       <Specifications />
+      <Contact />
     </>
   )
 }
