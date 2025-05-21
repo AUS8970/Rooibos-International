@@ -3,7 +3,7 @@ export default function ChooseUs() {
   return (
     <div className="hero min-h-screen" style={{ backgroundImage: "url(https://i.ibb.co/M5ktnH16/chooses.png)", }}>
       {/* <div className="hero-overlay bg-opacity-60"></div> */}
-      <div className="hero-content text-neutral-content text-start p-20">
+      <div className="hero-content text-neutral-content text-start p-16 px-10 md:px-20">
         <div className="mb-16">
           <h2 className="text-3xl font-semibold text-rose-100 mb-6"> Why Choose Us? </h2>
           <ul className="space-y-2 text-lg text-rose-200 list-disc list-inside">

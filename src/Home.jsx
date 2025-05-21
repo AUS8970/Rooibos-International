@@ -1,20 +1,20 @@
 import './App.css'
 import './index.css'
-import Home from './components/home';
 import Overview from './components/Overview';
 import Rooibos from './components/Rooibos';
 import Header from './components/Header';
 import ChooseUs from './components/ChooseUs';
 import Supplay from './components/Supplay';
 import Specifications from './components/Specifications';
-import Contact from './components/Contact';
+import Contact from './components/Footer';
+import Banner from './components/Banner';
 
-function App() {
+function Home() {
 
   return (
     <>
-      {/* <Header /> */}
-      <Home />
+      <Header />
+      <Banner />
       <Overview />
       <Rooibos />
       <ChooseUs />
@@ -25,4 +25,4 @@ function App() {
   )
 }
 
-export default App
+export default Home;

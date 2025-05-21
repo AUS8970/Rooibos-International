@@ -2,10 +2,10 @@ import React from 'react'
 
 export default function Specifications() {
   return (
-    <div className="hero min-h-screen" style={{ backgroundImage: "url(https://i.ibb.co/Dffw2Wdd/Specifications.png)", }}>
-      <div className="hero-content grid grid-cols-3">
+    <div className="hero min-h-screen" style={{ backgroundImage: "url(https://i.ibb.co/Psv95g1M/Specifications1.png)", }}>
+      <div className="hero-content mt-10 p-16 px-10 md:px-20 grid md:grid-cols-3">
         <div className="col-span-1"> </div>
-        <div className="col-span-2 text-neutral-content text-start p-20">
+        <div className="col-span-2 text-neutral-content text-start">
           {/* Typical Bulk Rooibos Technical Specifications */}
           <div className="mb-10">
             <h2 className="text-3xl font-semibold text-rose-100 mb-6">Typical Bulk Rooibos Technical Specifications </h2>

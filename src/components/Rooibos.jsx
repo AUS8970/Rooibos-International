@@ -8,7 +8,7 @@ export default function Rooibos() {
           backgroundImage: "url(https://i.ibb.co/7xLGhp5P/Rooiboss.png)",
         }}>
         {/* <div className="hero-overlay bg-opacity-60"></div> */}
-        <div className="hero-content px-10 md:px-20 text-neutral-content text-start p-20">
+        <div className="hero-content mt-8 px-10 md:px-20 text-neutral-content text-start p-20">
           <div className="">
             {/* Applications List */}
             <div className="mb-16">

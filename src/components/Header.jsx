@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <div className="navbar  bg-base-100 bg-opacity-70">
+    <div className="navbar fixed z-10 bg-rose-100 bg-opacity-80">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -22,29 +22,18 @@ const Header = () => {
             <li><a>Item 3</a></li>
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl"> 
+        <a href='/' className="px-4 text-xl"> 
           <div className="w-10">
             <img src="https://i.ibb.co/RpMRkpHm/logo.png" alt="Rooibos_International_Logo" /> 
           </div>
         </a>
       </div>
-      <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal px-1">
-          <li><a>Item 1</a></li>
-          <li>
-            <details>
-              <summary>Parent</summary>
-              <ul className="p-2">
-                <li><a>Submenu 1</a></li>
-                <li><a>Submenu 2</a></li>
-              </ul>
-            </details>
-          </li>
-          <li><a>Item 3</a></li>
-        </ul>
-      </div>
-      <div className="navbar-end">
-        <a className="btn">Button</a>
+      <div className="navbar-end gap-5 text-rose-800 font-merriweather mr-5">
+        <a href="/" className=""> Home </a>
+        <a href="products" className=""> Products </a>
+        <a href="benefits" className=""> Benefits </a>
+        <a href="support" className=""> Support </a>
+        <a href="contact" className=""> Contact </a>
       </div>
     </div>
   );
