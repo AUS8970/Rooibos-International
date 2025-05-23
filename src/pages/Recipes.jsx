@@ -45,12 +45,11 @@ export default function Recipes() {
 
   return (
     <section className='pt-28 pb-20 bg-rose-900'>
-      <div className="px-20 text-center">
-        <h1 className="text-3xl font-bold text-rose-100"> 50 Delicious Pork-Free, Alcohol-Free Rooibos Recipes </h1>
-        <p className="text-sm pt-3 px-48"> Discover the versatility of rooibos tea with these 50 pork-free, alcohol-free recipes. From refreshing drinks and nourishing meals to indulgent desserts and self-care remedies, rooibos proves to be a powerful and flexible ingredient suitable for every part of your day. </p>
+      <div className="px-5 md:px-20 text-center">
+        <h1 className="text-3xl font-bold text-rose-100"> 50 Delicious Rooibos Recipes </h1>
+        <p className="text-sm pt-3 md:px-48"> Discover the versatility of rooibos tea with these 50 recipes. From refreshing drinks and nourishing meals to indulgent desserts and self-care remedies, rooibos is a powerful and flexible ingredient suitable for every part of your day. </p>
       </div>
-
-      <div className="join join-vertical w-full px-6 lg:px-20 mt-12">
+      <div className="join join-vertical w-full px-6 lg:px-20 mt-10">
 
         {/* Drinks And Smoothies */}
         <div className="collapse collapse-arrow join-item border-base-300 border">

@@ -2,19 +2,13 @@ import React from 'react';
 
 const Banner = () => {
   return (
-    <div
-      className="hero min-h-screen"
-      style={{
-        backgroundImage: "url(https://i.ibb.co/N2GVrL9x/Asset-5.png)",
-      }}>
+    <div className="hero min-h-screen" style={{ backgroundImage: "url(https://i.ibb.co/N2GVrL9x/Asset-5.png)", }}>
       <div className="hero-overlay"></div>
-      <div className="hero-content flex flex-row gap-20 text-neutral-content">
-        <div className="">
-          <img className='w-60' src="https://i.ibb.co/mVpmBbdW/Asset-2.png" alt="" />
-        </div>
+      <div className="hero-content pt-20 flex flex-col lg:flex-row gap-1 lg:gap-20 text-neutral-content">
+        <img className='w-52 lg:w-60' src="https://i.ibb.co/mVpmBbdW/Asset-2.png" alt="" />
         <div className="font-merriweather flex flex-col gap-3 mt-10 text-center">
-          <h2 className='text-5xl'> Pure South African Rooibos </h2> 
-          <p className="text-xl"> Nature’s finest herbal tea, full of antioxidants and naturally sweet. </p>
+          <h2 className='text-3xl md:text-5xl'> Pure South African Rooibos </h2> 
+          <p className="text-sm md:text-xl"> Nature’s finest herbal tea, full of antioxidants and naturally sweet. </p>
           <a href="/recipes" className="">
             <button className='bg-rose-700 p-3 px-5 rounded-full'> Explore Your Rooibos </button>
           </a>

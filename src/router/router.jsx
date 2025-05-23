@@ -5,6 +5,7 @@ import WhatWeSupplay from "../pages/WhatWeSupplay";
 import MainRouter from "./MainRouter";
 import Inspiration from "../pages/Inspiration";
 import Recipes from "../pages/Recipes";
+import Error from "../pages/Error";
 
 const router = createBrowserRouter([
   {
@@ -35,7 +36,7 @@ const router = createBrowserRouter([
   },
   {
     path: '*',
-    // element: <Error />
+    element: <Error />
   },
 ]);
 
