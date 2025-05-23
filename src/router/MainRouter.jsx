@@ -7,7 +7,7 @@ export default function MainRouter() {
     <div>
       <Header />
       <Outlet />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   )
 }

@@ -1,4 +1,3 @@
-
 export default function ChooseUs() {
   return (
     <div className="hero min-h-screen" style={{ backgroundImage: "url(https://i.ibb.co/M5ktnH16/chooses.png)", }}>

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Supplay() {
+export default function WhatWeSupplay() {
   return (
     <div className="hero min-h-screen" style={{ backgroundImage: "url(https://i.ibb.co/GQ25hS0w/Supply.png)", }}>
       {/* <div className="hero-overlay bg-opacity-60"></div> */}

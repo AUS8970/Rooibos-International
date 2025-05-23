@@ -1,10 +1,10 @@
 import { createBrowserRouter } from "react-router-dom";
 import ContactUs from "../pages/ContactUs";
 import Home from "../pages/Home";
-import OurProducts from "../pages/OurProducts";
+import WhatWeSupplay from "../pages/WhatWeSupplay";
 import MainRouter from "./MainRouter";
-import Inspiration from "../components/Inspiration";
-import Recipes from "../components/Recipes";
+import Inspiration from "../pages/Inspiration";
+import Recipes from "../pages/Recipes";
 
 const router = createBrowserRouter([
   {
@@ -17,7 +17,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/supplay",
-        element: <OurProducts />
+        element: <WhatWeSupplay />
       },
       {
         path: "/inspiration",
