@@ -10,9 +10,9 @@ export default function Inspiration() {
           <div className="mb-16 text-black">
             <h2 className="text-3xl font-semibold text-rose-800 mb-6"> Applications Beyond Tea </h2>
             <ul className="space-y-2 text-lg list-disc list-inside md:pr-64">
-              <li>Ready-to-Drink (RTD) beverages. </li>
-              <li>Hot drinks: traditional tea, red latte, red cappuccino, rooibos hot chocolate and red espresso. </li>
-              <li>Cold drinks: ice teas, flavoured ice teas, rooibos infused cocktails, rooibos kombucha, rooibos lemonade, rooibos smoothie, rooibos mocktails, rooibos frappe, and rooibos herbal infusions. </li>
+              <li>Ready-to-Drink (RTD) beverages: </li>
+              <li className='pl-10'>Hot drinks: traditional tea, red latte, red cappuccino, rooibos hot chocolate and red espresso. </li>
+              <li className='pl-10'>Cold drinks: ice teas, flavoured ice teas, rooibos infused cocktails, rooibos kombucha, rooibos lemonade, rooibos smoothie, rooibos mocktails, rooibos frappe, and rooibos herbal infusions. </li>
               <li>Health and wellness products. </li>
               <li>Beauty and nutraceutical formulations. </li>
               <li>Herbal infusions and custom blends. </li>
