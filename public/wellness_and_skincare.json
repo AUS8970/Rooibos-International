@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Rooibos Steam Facial",
+    "description": "Use hot rooibos for a gentle facial steam.",
+    "image": "https://i.ibb.co/Gfb0p0cy/Rooibos-Steam-Facial.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rooibos Hair Rinse",
+    "description": "Rinse hair with cooled rooibos for shine and scalp health.",
+    "image": "https://i.ibb.co/KzFPKyKv/Rooibos-Hair-Rinse.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Rooibos & Honey Face Mask",
+    "description": "Mix rooibos with honey and oatmeal for a soothing mask.",
+    "image": "https://i.ibb.co/LhvNwPKN/Rooibos-Honey-Face-Mask.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Rooibos Face Mist",
+    "description": "Mix rooibos tea with rose water and aloe in a spray bottle.",
+    "image": "https://i.ibb.co/k27rRgTk/Rooibos-Face-Mist.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Rooibos Bath Soak",
+    "description": "Combine rooibos, Epsom salt, lavender, and baking soda.",
+    "image": "https://i.ibb.co/FGRGYQg/Rooibos-Bath-Soak.jpg"
+  }
+]

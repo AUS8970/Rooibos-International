@@ -30,9 +30,9 @@ const Header = () => {
       </div>
       <div className="navbar-end gap-5 text-rose-800 font-merriweather mr-5">
         <a href="/" className=""> Home </a>
-        <a href="products" className=""> Products </a>
-        <a href="benefits" className=""> Benefits </a>
-        <a href="support" className=""> Support </a>
+        <a href="supplay" className=""> What We Supply </a>
+        <a href="inspiration" className=""> Inspiration </a>
+        <a href="recipes" className=""> Recipes </a>
         <a href="contact" className=""> Contact </a>
       </div>
     </div>

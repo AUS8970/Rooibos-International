@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Rooibos Chickpea Patties",
+    "description": "Use rooibos tea as binding liquid for chickpea burgers.",
+    "image": "https://i.ibb.co/XxZdv4SS/Rooibos-Chickpea-Patties.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rooibos Roasted Veggies",
+    "description": "Drizzle rooibos reduction over roasted seasonal vegetables.",
+    "image": "https://i.ibb.co/Q7BnjcNm/Rooibos-Roasted-Veggies.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Rooibos Mashed Potatoes",
+    "description": "Infuse milk with rooibos before mashing with potatoes.",
+    "image": "https://i.ibb.co/gLDrZCwk/Rooibos-Mashed-Potatoes.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Rooibos Lentil Soup",
+    "description": "Simmer lentils and veggies in rooibos for hearty soup.",
+    "image": "https://i.ibb.co/jZ121Kt7/Rooibos-Lentil-Soup.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Rooibos Roasted Veggies",
+    "description": "Drizzle rooibos reduction over roasted seasonal vegetables.",
+    "image": "https://i.ibb.co/Q7BnjcNm/Rooibos-Roasted-Veggies.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Rooibos Biryani",
+    "description": "Use rooibos to cook rice and layer with spiced vegetables or meat.",
+    "image": "https://i.ibb.co/BH6hJx3B/Rooibos-Biryani.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Rooibos Vegetable Stew",
+    "description": "Simmer root vegetables in rooibos broth.",
+    "image": "https://i.ibb.co/fzqwn5bh/Rooibos-Vegetable-Stew.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Rooibos Couscous Salad",
+    "description": "Soak couscous in rooibos and mix with veggies and lemon.",
+    "image": "https://i.ibb.co/BHMB5pxM/Rooibos-Couscous-Salad.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Rooibos-Infused Rice",
+    "description": "Cook rice in rooibos tea for color and flavor.",
+    "image": "https://i.ibb.co/4RzRWjKK/Rooibos-Infused-Rice.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Rooibos BBQ Marinade",
+    "description": "Combine rooibos, soy sauce, garlic, and paprika for a meat marinade.",
+    "image": "https://i.ibb.co/vxSp4X44/Rooibos-BBQ-Marinade.jpg"
+  }
+]

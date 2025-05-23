@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/gLVyRz8M/Rooibos-Iced-Tea-with-Citrus-Mint.jpg",
+    "title": "Rooibos Iced Tea with Citrus & Mint",
+    "description": "Chill strong rooibos and serve with citrus slices, mint, and honey."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/5wthsrS/Rooibos-Latte.jpg",
+    "title": "Rooibos Latte",
+    "description": "Brew rooibos espresso-style, top with steamed milk and a dash of cinnamon."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/LXbJ3qN0/Spiced-Rooibos-Chai.jpg",
+    "title": "Spiced Rooibos Chai",
+    "description": "Simmer rooibos with chai spices and serve with milk."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/7d6CcdMb/Rooibos-Smoothie-Booster.jpg",
+    "title": "Rooibos Smoothie Booster",
+    "description": "Blend rooibos with banana, berries, almond milk, and chia seeds."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/kY0Wk5g/Rooibos-Coconut-Cooler.jpg",
+    "title": "Rooibos Lemonade",
+    "description": "Mix rooibos, lemon juice, sweetener, and serve with ice."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/gZ0gZ62d/Rooibos-Apple-Cider-Tonic.jpg",
+    "title": "Rooibos Apple Cider Tonic",
+    "description": "Mix rooibos with apple cider vinegar, honey, cinnamon, and lemon."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/K8D6NnT/Rooibos-Hot-Chocolate.jpg",
+    "title": "Rooibos Hot Chocolate",
+    "description": "Warm rooibos with cocoa powder, milk, and vanilla."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/hxS1mmQP/Rooibos-Pineapple-Refresher.jpg",
+    "title": "Rooibos Pineapple Refresher",
+    "description": "Blend rooibos with pineapple juice, lime, and mint."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/QV6CP4D/Rooibos-Mango-Lassi.jpg",
+    "title": "Rooibos Mango Lassi",
+    "description": "Blend mango with rooibos, yogurt or coconut cream, and cardamom."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/kY0Wk5g/Rooibos-Coconut-Cooler.jpg",
+    "title": "Rooibos Coconut Cooler",
+    "description": "Combine rooibos, coconut water, lime juice, and honey."
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/GvVS39gJ/Rooibos-Watermelon-Slush.jpg",
+    "title": "Rooibos Watermelon Slush",
+    "description": "Blend rooibos tea with frozen watermelon chunks and a hint of lime."
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/XfmKXPYg/Rooibos-Orange-Ginger-Fizz.jpg",
+    "title": "Rooibos Orange Ginger Fizz",
+    "description": "Mix rooibos with orange juice, grated ginger, and sparkling water."
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/fzLWggFG/Rooibos-Vanilla-Protein-Shake.jpg",
+    "title": "Rooibos Vanilla Protein Shake",
+    "description": "Blend rooibos with vanilla protein powder, banana, and almond milk."
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/gZ4jVwZP/Rooibos-Apple-Grape-Juice-Fusion.jpg",
+    "title": "Rooibos Apple-Grape Juice Fusion",
+    "description": "Mix rooibos with fresh apple and grape juice."
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/Hfvh9vpD/Rooibos-Pomegranate-Cooler.jpg",
+    "title": "Rooibos Pomegranate Cooler",
+    "description": "Stir rooibos with pomegranate juice, mint, and ice."
+  }
+]

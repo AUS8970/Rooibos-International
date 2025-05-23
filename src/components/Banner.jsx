@@ -15,7 +15,7 @@ const Banner = () => {
         <div className="font-merriweather flex flex-col gap-3 mt-10 text-center">
           <h2 className='text-5xl'> Pure South African Rooibos </h2> 
           <p className="text-xl"> Nature’s finest herbal tea, full of antioxidants and naturally sweet. </p>
-          <a href="/products" className="">
+          <a href="/recipes" className="">
             <button className='bg-rose-700 p-3 px-5 rounded-full'> Explore Your Rooibos </button>
           </a>
         </div>
